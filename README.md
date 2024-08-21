@@ -1,28 +1,19 @@
 # Civo Documentation
 
+
 This repository serves as the source for [Civo](https://www.civo.com) documentation. The source files in the repository are used to render the documentation pages at https://www.civo.com/docs .
 
 You can contribute to this repository by submitting a Pull Request with your suggested changes. Once merged to the main branch, these changes will be reflected on the site. Read our [contributing document](CONTRIBUTING.md) for more detail.
 
 ## Website
+aezsxrdcftvgybhunijm
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
 You will need Yarn installed, which in turn requires npm and Node. On a Mac using homebrew, you can run `brew install node`.
-
-Assuming you have npm set up, you can run:
-
-```console
-npm install --global yarn
-```
-
-Then run
-
-```console
-$ yarn
-```
+ooooooo```
 
 ### Local Development
 
